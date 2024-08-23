@@ -27,7 +27,3 @@ You can try the app live by visiting [Live Demo](your-live-demo-link).
 - CSS
 - JavaScript
 - React
-
-## Screenshot
-
-![App Screenshot](public/screenshot.png)
